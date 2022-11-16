@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    font-family: "Vollkorn";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #0f3f49;
+}
+
+code {
+    font-family: "Vollkorn";
+}
